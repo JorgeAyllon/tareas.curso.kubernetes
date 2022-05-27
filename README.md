@@ -1,4 +1,4 @@
-#DESARROLLO
+#Respuestas de la Tarea 1 (Jorge Ayllon Carrasco)
 1. gh repo clone jgenso/NodeExpressMongoDBDockerApp   
 2. kubectl create namespace jorge-ayllon-carrasco 
 3. docker build -f node.dockerfile -t jorge-ayllon/example-node-express-mongodb-app .
