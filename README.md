@@ -101,5 +101,7 @@ spec:
     app: mongo
   type: NodePort
 
+El acceso desde los otros pods se realiza mediante:
+mongo.default.svc.cluster.local
 8.
 9.
