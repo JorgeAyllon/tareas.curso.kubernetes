@@ -2,7 +2,7 @@
 1. gh repo clone jgenso/NodeExpressMongoDBDockerApp   
 2. kubectl create namespace jorge-ayllon-carrasco 
 3. docker build -f node.dockerfile -t jorge-ayllon/example-node-express-mongodb-app .
-4. secretos-para-mongo.yaml                                                                                           
+## 4. secretos-para-mongo.yaml                                                                                           
 apiVersion: v1
 data:
   password: TWkuUGFzc3dvcmQuNjdkZg== #Mi.Password.67df
